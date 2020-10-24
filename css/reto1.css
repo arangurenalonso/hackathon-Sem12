@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color:#f3f3f3;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenedor{
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.dropDown-titulo{
+    width: 150px;
+    height: 50px;
+    color: blue;
+    background-color: red;
+    display: flex;
+}

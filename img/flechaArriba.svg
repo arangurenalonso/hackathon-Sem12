@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="104mm"
+   height="51mm"
+   viewBox="0 0 104 51"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="flechaArriba.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="248.40079"
+     inkscape:cy="148.87601"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3772"
+       d="m 0.20788143,296.7921 c 0.08994,-0.14552 0.305323,-0.26363 0.478636,-0.26247 0.173313,10e-4 5.91105197,-5.57683 12.75053157,-12.39555 6.83948,-6.81871 15.769168,-15.63613 19.843751,-19.59427 4.074584,-3.95814 7.527397,-7.3242 7.672918,-7.48013 1.887106,-2.02218 11.123597,-11.06758 11.301394,-11.06758 0.415407,0 2.324648,1.66056 2.324648,2.02186 0,0.19019 0.32742,0.51578 0.7276,0.72352 0.72643,0.37712 3.60099,3.32405 4.8017,4.9226 0.34897,0.4646 0.84955,0.92429 1.11239,1.02152 0.26284,0.0972 9.91068,9.52257 21.43965,20.9452 11.52897,11.42264 21.04812,20.74243 21.15366,20.71065 0.10554,-0.0318 0.25899,0.11704 0.34098,0.33073 0.13079,0.34081 -6.25076,0.3885 -51.981148,0.3885 -34.686114,0 -52.07551357,-0.0885 -51.96671057,-0.26458 z"
+       style="fill:#000000;stroke-width:0.26458335" />
+  </g>
+</svg>
